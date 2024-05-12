@@ -1,6 +1,7 @@
 # Smart-Irrigation-System
 
-![block diagram](https://github.com/Mouli9625/Smart-Irrigation-System/assets/146831549/516835c1-73b0-44f5-80aa-c263dac448f2)
+![Screenshot 2024-05-12 184941](https://github.com/Mouli9625/Smart-Irrigation-System/assets/146831549/99108944-8fe4-46a9-9da6-6f11f8d1347d)
+
 
 
 ABSTRACT:
