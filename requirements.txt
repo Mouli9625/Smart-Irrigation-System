@@ -1,0 +1,10 @@
+Compilers:
+ 1) Arduino IDE
+ 2) Python IDLE
+Versions:
+ 1) Python-3.10
+libraries:
+ 1) scikit learn
+ 2) pandas
+ 3) matplotlib
+ 4) Numpy
