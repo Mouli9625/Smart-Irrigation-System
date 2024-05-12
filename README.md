@@ -1,5 +1,8 @@
 # Smart-Irrigation-System
 
+![block diagram](https://github.com/Mouli9625/Smart-Irrigation-System/assets/146831549/516835c1-73b0-44f5-80aa-c263dac448f2)
+
+
 ABSTRACT:
 
 1) Modern agriculture is increasingly adopting smart technologies to enhance efficiency and
@@ -14,3 +17,5 @@ control over irrigation. The LCD display provides users with instant feedback on
 levels, current temperature, and irrigation schedules.
 4) To enhance efficiency, a linear regression algorithm is integrated, utilizing historical data to predict
 soil moisture requirements and fine-tune irrigation schedules.
+![WhatsApp Image 2024-01-07 at 01 01 42_f610d30b](https://github.com/Mouli9625/Smart-Irrigation-System/assets/146831549/b4d407f1-158c-46e2-a944-63c846511f43)
+
